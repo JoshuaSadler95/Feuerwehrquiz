@@ -1,0 +1,3 @@
+﻿Um welche Brandklasse handelt es sich in diesem Szenario?|C,A,B,D#
+Welches dieser Löschverfahren ist geeignet?|Löschpulver,Wasser,Löschschaum,Koschsalz#
+Welche der Aussagen ist zutreffend?|Nach dem Löschen muss die Leckstelle abgedichtet werden,Im Normalfall sollte ein Gasbrand immer gelöscht werden,Bei Gasbränden einfach das Gas ab

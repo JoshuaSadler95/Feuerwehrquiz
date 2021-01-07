@@ -1,0 +1,3 @@
+﻿Um welche Brandklasse handelt es sich in diesem Szenario?|B,A,D,F#
+Welches Löschmittel ist nicht geeignet?|Wasser,Löschschaum,Kohlendioxid,Löschpulver#
+Mit welcher Temperatur brennt dieses Feuer etwa?|ca. 600˚C,ca.400˚C,ca. 250˚C

@@ -1,0 +1,3 @@
+﻿Um welche Brandklasse handelt es sich in diesem Szenario?|A,B,C,F#
+Welches Löschverfahren ist nicht geeignet?|Sand,Wasser,Druckluftschaum (CAFS)#
+Welches dieser Löschpulver ist geeignet?|ABC-Pulver,BC-Pulver,D-Pulver

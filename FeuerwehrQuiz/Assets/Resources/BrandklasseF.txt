@@ -1,0 +1,3 @@
+﻿Um welche Brandklasse handelt es sich in diesem Szenario?|F,A,B,D#
+Welches der Löschverfahren ist geeignet?|Löschschaum,Wasser,Kohlendioxid,Löschpulver#
+Was passiert wenn man hier Wasser als Löschmittel benutzt?|Eine Stichflamme entsteht, Nichts passiert, Der Brand wird gelöscht
